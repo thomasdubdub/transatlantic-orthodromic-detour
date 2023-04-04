@@ -13,7 +13,7 @@ We can visualize all the flights from LFPG to KJFK during a month to illustrate 
 
 ![all_flights](all_flights.png)
 
-We finally evaluate the real distance flown with the[Python traffic library](https://traffic-viz.github.io/)
+We finally evaluate the real distance flown with the [Python traffic library](https://traffic-viz.github.io/)
 and visualize the distribution of these distances compared to the orthodromic distance.
 
 ![distrib](distrib.png)
